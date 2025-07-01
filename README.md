@@ -8,12 +8,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=61DAFB&center=true&vCenter=true&width=450&lines=Hi,+I'm+Belal!;Junior+DevOps+Engineer;Automate+All+The+Things!" alt="Typing SVG" />
 </p>
 
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Infrastructure%20as%20Code;CI/CD%20Pipelines;Cloud%20Automation&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
-  </a>
-</p> 
 
 ---
 
