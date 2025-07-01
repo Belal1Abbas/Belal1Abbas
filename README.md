@@ -1,7 +1,22 @@
 <h1 align="center">Hi there, I'm Belal Abbas 👋</h1>
 
+<!-- صورة 1: Cloud DevOps -->
+
 <p align="center">
   <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="300" alt="DevOps Coding gif"/>
+</p>
+
+
+<!-- صورة 2: Cloud Automation -->
+<!-- 
+<p align="center">
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="300" alt="Cloud Automation gif"/>
+</p>
+-->
+
+<!-- صورة 3: Coding & DevOps -->
+<p align="center">
+  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="300" alt="Coding & DevOps gif"/>
 </p>
 
 <p align="center">
@@ -11,7 +26,7 @@
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Infrastructure%20as%20Code;CI/CD%20Pipelines;Cloud%20Automation&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Infrastructure%20as%20Code;CI/CD%20Pipelines;Cloud%20%26%20DevOps%20Automation&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
   </a>
 </p> 
 
@@ -66,4 +81,16 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/yourprofile" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:your-email@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Email-D44638?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/yourgithub" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+> “Automate everything, monitor relentlessly, and never stop improving.” 🚀
