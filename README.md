@@ -7,6 +7,10 @@
 <h3>🚀 About Me</h3> 
 <h4> I'm Belal Abbas from Egypt. I'm a Junior DevOps Engineer passionate about automating infrastructure, continuous integration & deployment, and cloud technologies. I'm continuously learning and growing in the DevOps ecosystem. </h4>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00FF00&width=435&lines=I+am+a+Junior+DevOps+Engineer" alt="Typing Animation" />
+</p>
+
 <img align="center" src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width="45%" height="95px">
 
 ### Tools & Technologies 🛠  
@@ -34,4 +38,3 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:belal.bmwe90@gmail.com)  
 
 <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width="100%" height="95px">
-
