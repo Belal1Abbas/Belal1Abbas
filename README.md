@@ -1,12 +1,11 @@
 <h1 align="center">Hi there, I'm Belal Abbas 👋</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding gif"/>
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="300" alt="DevOps Coding gif"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=61DAFB&center=true&vCenter=true&width=450&lines=Hi,+I'm+Belal!;Junior+DevOps+Engineer;Automate+All+The+Things!
-" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=61DAFB&center=true&vCenter=true&width=450&lines=Hi,+I'm+Belal!;Junior+DevOps+Engineer;Automate+All+The+Things!" alt="Typing SVG" />
 </p>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
@@ -21,7 +20,7 @@
 ## 🧑‍💻 About Me
 👤 Name: Belal Abbas
 
-🎯 I'm a **DevOps Engineer** passionate about building scalable, automated, and reliable cloud infrastructure.
+🎯 I'm a **Junior DevOps Engineer** passionate about building scalable, automated, and reliable cloud infrastructure.
 
 💡 Currently deepening my expertise in Kubernetes, Terraform, Docker, and CI/CD pipelines to streamline deployments and boost system reliability.
 
@@ -73,10 +72,4 @@
     <img src="https://img.shields.io/badge/-Email-D44638?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/yourgithub" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
----
-
-> “Automate everything, monitor relentlessly, and never stop improving.” 🚀
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-b
