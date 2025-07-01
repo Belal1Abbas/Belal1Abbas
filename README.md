@@ -2,18 +2,13 @@
 
 
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="300" alt="DevOps Coding gif"/>
-</p>
 
-
-<!-- 
 <p align="center">
   <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="300" alt="Cloud Automation gif"/>
 </p>
--->
 
-<!-- صورة 3: Coding & DevOps -->
+
+
 <p align="center">
   <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="300" alt="Coding & DevOps gif"/>
 </p>
