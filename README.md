@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Belal Abbas 👋</h1>
 
-<!-- صورة 1: Cloud DevOps -->
+
 
 <p align="center">
   <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="300" alt="DevOps Coding gif"/>
