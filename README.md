@@ -1,14 +1,6 @@
 <h1 align="center">Hi there, I'm Belal Abbas 👋</h1>
 
 
-
-
-<p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="300" alt="Cloud Automation gif"/>
-</p>
-
-
-
 <p align="center">
   <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="300" alt="Coding & DevOps gif"/>
 </p>
