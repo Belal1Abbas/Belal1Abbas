@@ -30,7 +30,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
 ---
 
 ### 🔗 Contact Me  
