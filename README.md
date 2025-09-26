@@ -4,7 +4,7 @@
 
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="DevOps GIF" width="380" height="280">
 
-<h3>🚀 About Me</h3> 
+<h3> About Me</h3> 
 <h4> I'm Belal Abbas from Egypt. I'm a Junior DevOps Engineer passionate about automating infrastructure, continuous integration & deployment, and cloud technologies. I'm continuously learning and growing in the DevOps ecosystem. </h4>
 
 <p align="center">
